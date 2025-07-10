@@ -1,4 +1,4 @@
-# 🎮 Kotlin Game Projects – 2048 & Game of Fifteen
+# Kotlin Game Projects – 2048 & Game of Fifteen
 
 
 This repository contains two games implemented as part of the Final project for [Kotlin for Java Developers – JetBrains Academy](https://www.jetbrains.com/academy/)
