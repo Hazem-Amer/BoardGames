@@ -30,7 +30,7 @@ Both games are built using the **same object-oriented architecture**, following 
 - Game over when the board is full
 
 ### Screenshots:
-![2048 Screenshot](images/2048.png)
+![2048 Screenshot](screenshots/game2048.gif)
 ---
 
 ## 🔢 Game of Fifteen
@@ -39,7 +39,7 @@ A sliding puzzle game where the player arranges numbers 1 to 15 by moving tiles 
 Only even permutations of tiles are solvable — this check is implemented using the **inversion count algorithm**.
   
 ### Screenshots:
-![Game of Fifteen Screenshot](images/fifteen.png)
+![Game of Fifteen Screenshot](screenshots/15-puzzle.gif)
 ---
 
 ## ▶️ How to Run the Games
