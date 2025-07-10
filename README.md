@@ -7,7 +7,7 @@ This repository contains two games implemented as part of the Final project for 
 - ✅ [2048](https://play2048.co/)
 - ✅ [Game of Fifteen](https://15puzzle.netlify.app/)
 
-Both games are built using the **same object-oriented architecture**, following clean code principles with shared interfaces and reusable game board logic.
+Both games are built using the **Kotlin and the Java Swing**, following clean code principles with shared interfaces and reusable game board logic.
 
 ---
 
@@ -49,12 +49,11 @@ Only even permutations of tiles are solvable — this check is implemented using
 - IntelliJ IDEA or compatible IDE
 
 ### Run 2048:
-- Open the project
 - Navigate to `ui/PlayGame2048.kt`
-- Click the green **Run** button next to the `main()` function
+- **Run**  `main()`
 
 ### Run Game of Fifteen:
 - Navigate to `ui/PlayGameOfFifteen.kt`
-- Click the green **Run** button next to the `main()` function
+- **Run**  `main()`
 
 
