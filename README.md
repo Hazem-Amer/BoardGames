@@ -1,7 +1,7 @@
 # Kotlin implementaion of Game2048 & Game of Fifteen
 
 
-This repository contains two games implemented as part of the Final project for [Kotlin for Java Developers – JetBrains Academy](https://www.jetbrains.com/academy/)
+This repository contains Kotlin implementations of 2048 & Game of Fifteen featuring algorithmic logic (inversion count, merge mechanics), modular OOP design, and clean testable architecture. Built as part of the Final project for [Kotlin for Java Developers – JetBrains Academy](https://www.jetbrains.com/academy/)
 
 
 - ✅ [2048](https://play2048.co/)
